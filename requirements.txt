@@ -1,0 +1,6 @@
+beautifulsoup4
+requests
+streamlit
+transformers
+torch
+librosa  # (For TTS)
