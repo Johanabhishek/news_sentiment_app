@@ -4,3 +4,7 @@ streamlit
 transformers
 torch
 librosa  # (For TTS)
+torch==2.0.1
+torchaudio
+TTS
+numpy
